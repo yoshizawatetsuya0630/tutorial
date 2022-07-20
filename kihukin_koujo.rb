@@ -74,3 +74,5 @@ puts "寄付金控除額合計 #{kihukin_koujo(100_000_000, 20_000_000).round}"
 puts "損金算入効果 #{sonkin_kouka.round}"
 puts "自己負担額 #{(jiko_hutangaku).round}"
 puts "自己負担割合 #{(jiko_hutan_wariai).round(2)}%"
+
+Puts "test2"
